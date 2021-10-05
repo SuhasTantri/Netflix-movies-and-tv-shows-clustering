@@ -21,13 +21,19 @@ Here are the key take aways from the project.
 
 10. 6 clusters were generated after clustering ( Topic Modelling ).After analysing the top words in the clusters we were able to name them as 
 
-      Cluster  --  Name   --               	         Top relevant words
-         1    --       Crime    --                                  (forc, power , save)
-         2    --       International movie  -- 	          (world , seri , special)
-         3    --       Romantic      --  	          (man , woman , young)
-         4    --       Drama     --                                (famili , young , life)
-         5    --       Children and family movies   -- (friend , new , school)
-         6    --       Documentary  --                        (life , story , live)
+      Cluster  --  Name   --               	     Top relevant words
+       
+       1    --       Crime    --                     (forc, power , save)
+       
+       2    --       International movie  -- 	     (world , seri , special)
+       
+       3    --       Romantic      --  	           (man , woman , young)
+       
+       4    --       Drama     --                    (famili , young , life)
+       
+       5    --       Children and family movies   -- (friend , new , school)
+       
+       6    --       Documentary  --                  (life , story , live)
 
  Best LDA model's params {'n_components': 6}
  Best log likelihood Score for the LDA model -253836.02.
